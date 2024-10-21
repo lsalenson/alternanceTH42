@@ -6,6 +6,7 @@
 - Mise A Jour d'une sonde Nagios 
 - Fix de bug de DAGs Airflow
 - Creation projet uv pour avoir des variables d'environnement spécifique
+- Site web TH42
   
 ## Problème
 - Difficulter d'entrer sur le site d'Airbus
